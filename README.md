@@ -5,8 +5,7 @@ Real time Ocean Simulation based on Jerry Tessendorf’s paper ‘Simulating Oce
 
 In order to build and run the demo, the following open-source libraries are needed:
 
-clFFT
-DevIL
-GLM (build only)
-OpenCL >= 1.2 (with cl_khr_gl_sharing extension)
-OpenGL >= 4.0
+- clFFT
+- GLM
+- OpenCL >= 1.2 (with cl_khr_gl_sharing extension)
+- OpenGL >= 4.0
